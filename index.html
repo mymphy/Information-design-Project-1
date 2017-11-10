@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./index.css">
+  <!--Prevent favicon error from showing up-->
+  <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon">
+  <title>@mymphy</title>
+</head>
+
+<body>
+  
+  <main>
+    <div id="background"></div>
+    <!-- Start screen -->
+    <section id="start">
+      <h1>Depression around Europe</h1>
+      <p>
+          Depression is often seen as a big taboo. Many people suffer from depression but do not dare to ask for help. Click "Start" to get a better insight into <span>depression</span>.
+      </p>
+      <button >Start</button>
+
+    </section>
+    <!-- Europe map graph -->
+    <section id="map-graph" class="hidden">
+        <h1>Depression in Europe</h1>
+        <!-- Slider for the navigation between the years -->
+        <nav>
+        </nav>
+        <!-- World map  -->
+        <svg> </svg>
+        <!-- Legend -->
+        <section id="js-legend"> </section>
+        <div id="js-tooltip-map"></div>
+        <div class="info">
+          <h2>Depression in Europe in <span class="js-year">2014</span></h2>
+          <p>Depression occurs in a lot of countries. In this graph you can see the percentage of depression per contrie in Europe.</p>
+          <p>The graph shows the difference between the year 2014 to the year 2016. (You can use the slider to change the year)</p>
+          <h3>Depression facts</h3>
+          <ul>
+            <li>
+                Depression is a common mental disorder, more than 300 million people of all ages suffer from depression.
+            </li>
+            <li>
+                It is the leading cause of disability.
+            </li>
+            <li>
+                Depression can lead to suicide.
+            </li>
+            <li>
+                There are effective treatments for depression.
+            </li>
+          </ul>
+          <p class="extra">Feel free to explore the map by zooming and dragging the map. With the slider on the bottom you can change between the years. Also by hovering on the legend you are able to filter the contries in the same brunch</p>
+        </div>
+    </section>
+    <!-- female vs male graph -->
+    <section id="gender-graph" class="hidden" >
+        <h1>Female vs Male depression</h1>
+        <svg id="gender-svg" width="1500" height="550"></svg>
+        <div id="js-tooltip-gender"></div>
+        <div class="info">
+            <h2>Female vs Male depression in <span class="js-year">2014</span></h2>
+            <p>Depression rates vary by gender, age, and ethnicity. In general, women are at higher risk of depression than men, ethnic minorities are at greater risk of depression than non-Hispanic whites, and adults aged 45-64 are more likely than any other age group to have a diagnosis of depression.</p>
+            <h3>Male/female facts</h3>
+            <ul>
+              <li>
+                  Women are more likely to ruminate when feeling depressed.
+              </li>
+              <li>
+                Men with depression are more likely to abuse alcohol and other substances.
+              </li>
+              <li>
+                  Men's symptoms of depression may be harder for others to recognize.
+              </li>
+              <li>
+                    Women are more likely than men to have depression and a co-existing eating disorder.
+              </li>
+              <li>
+                  Men are more likely to commit suicide.
+              </li>
+              
+            </ul>
+          </div>
+    </section>
+    <!-- Top 5 search words in Google -->
+    <section id="relation-graph" class="hidden">
+        <h1>Top 5 search on depression</h1>
+        <svg id="relation-svg"  width="1500" height="1000"></svg>
+        <div class="info">
+                <h2>Top 5 search on depression per contry</h2>
+                <p>Web search giant Google is partnering with a major mental health advocacy group to make depression screening a part of your search for all things 'depression' on the site</p>
+                <h3>Google facts</h3>
+                <div id="word-fact">
+                    <ul>
+                      <li>
+                        NAMI says that over 50% of the people never seek treatment for depression.
+                      </li>
+                      <li>
+                        Many fear the risk of consulting a doctor but with Google's new tool, the process will get more smooth and simple.
+                      </li>
+                      <li>
+                        Statistics show that those who have symptoms of depression experience an average of a 6-8 year delay in getting treatment after the onset of symptoms. 
+                      </li>
+                    </ul>
+                </div>
+                <p class="extra">Feel free to drag and hover over the words to know more about them.</p>
+                </div>
+                
+              </div>
+
+    </section>
+
+    <nav id="buttons">
+        
+      <button id="previous" class="hidden">Previous</button>
+      <button id="next" class="hidden">Next</button>
+    </nav> 
+  </main>
+  
+
+  
+    <!-- Barchart
+    <section id="js-barchart"> </section> -->
+
+
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
+  <script src="./js/map-graph.js"></script>
+  <script src="./js/gender-graph.js"></script>
+  <script src="./js/relation-graph.js"></script>
+  <script src="./js/buttons.js"></script>
+</body>
+</html>

@@ -1,0 +1,1650 @@
+{
+  "nodes": [
+    {
+      "name": "depressie",
+      "label": "Netherlands",
+      "id": 1,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Dutch word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "depression test",
+      "label": "Netherlands",
+      "id": 2,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Netherlands",
+      "id": 3,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "great depression",
+      "label": "Netherlands",
+      "id": 4,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression symptoms",
+      "label": "Netherlands",
+      "id": 5,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "",
+      "label": "Netherlands",
+      "id": 6,
+      "type": "square",
+      "size": 6
+    },
+    {
+      "name": "depression symptomes",
+      "label": "Belgium",
+      "id": 11,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "depression test",
+      "label": "Belgium",
+      "id": 12,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "symptome depression",
+      "label": "Belgium",
+      "id": 13,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "quotes depression",
+      "label": "Belgium",
+      "id": 14,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "depression nerveuse",
+      "label": "Belgium",
+      "id": 15,
+      "type": "circle",
+      "size": 1,
+      "extra": "A nervous or mental breakdown is a term used to describe a period of intense mental distress. During this period, you’re unable to function in your everyday life. This term was once used to refer to a wide variety of mental illnesses, including depression, anxiety, and acute stress disorder. Although “nervous breakdown” is no longer considered a medical term, it’s still used by many to describe intense symptoms of stress and an inability to cope with life’s challenges. What others see as a mental breakdown may actually be an undiagnosed mental illness."
+    },
+    {
+      "name": "",
+      "label": "Belgium",
+      "id": 16,
+      "type": "square",
+      "size": 6
+    },
+    {
+      "name": "great depression",
+      "label": "Czech Republic",
+      "id": 21,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression test",
+      "label": "Czech Republic",
+      "id": 22,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "postpartum depression",
+      "label": "Czech Republic",
+      "id": 23,
+      "type": "circle",
+      "size": 1,
+      "extra":"Postpartum depression (PPD), also called postnatal depression, is a type of mood disorder associated with childbirth, which can affect both sexes. Symptoms may include extreme sadness, low energy, anxiety, changes in sleeping or eating patterns, crying episodes, and irritability."
+    },
+    {
+      "name": "",
+      "label": "Czech Republic",
+      "id": 26,
+      "type": "square",
+      "size": 4
+    },
+    {
+      "name": "angst",
+      "label": "Denmark",
+      "id": 31,
+      "type": "circle",
+      "size": 1,
+      "extra":"Angst means fear or anxiety. The word angst was introduced into English from the Danish, Norwegian and Dutch word angst and the German word Angst."
+    },
+    {
+      "name": "depression test",
+      "label": "Denmark",
+      "id": 32,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Denmark",
+      "id": 33,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "great depression",
+      "label": "Denmark",
+      "id": 34,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression symptoms",
+      "label": "Denmark",
+      "id": 35,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "",
+      "label": "Denmark",
+      "id": 36,
+      "type": "square",
+      "size": 6
+    },
+    {
+      "name": "depression test",
+      "label": "Germany",
+      "id": 41,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "symptomer depression",
+      "label": "Germany",
+      "id": 42,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "stress",
+      "label": "Germany",
+      "id": 43,
+      "type": "circle",
+      "size": 1,
+      "extra":"Stress is your body's way of responding to any kind of demand or threat. When you sense danger—whether it's real or imagined—the body's defenses kick into high gear in a rapid, automatic process known as the “fight-or-flight” reaction or the 'stress response'."
+    },
+    {
+      "name": "angst",
+      "label": "Germany",
+      "id": 44,
+      "type": "circle",
+      "size": 1,
+      "extra":"Angst means fear or anxiety. The word angst was introduced into English from the Danish, Norwegian and Dutch word angst and the German word Angst."
+    },
+    {
+      "name": "depression medicin",
+      "label": "Germany",
+      "id": 45,
+      "type": "circle",
+      "size": 1,
+      "extra":"Selective serotonin reuptake inhibitors (SSRIs) were launched in the mid to late 1980s. This generation of antidepressants is now the most common class used for depression. Examples include citalopram (Celexa), escitalopram (Lexapro), paroxetine (Paxil, Pexeva), fluoxetine (Prozac, Sarafem), and sertraline (Zoloft)"
+    },
+    {
+      "name": "",
+      "label": "Germany",
+      "id": 46,
+      "type": "square",
+      "size": 6
+    },
+    {
+      "name": "depression quotes",
+      "label": "Estonia",
+      "id": 51,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "",
+      "label": "Estonia",
+      "id": 56,
+      "type": "square",
+      "size": 2
+    },
+    {
+      "name": "depression symptoms",
+      "label": "Ireland",
+      "id": 61,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "anxiety",
+      "label": "Ireland",
+      "id": 62,
+      "type": "circle",
+      "size": 1,
+      "extra":"Anxiety means fear. The word angst was introduced into English from the Danish, Norwegian and Dutch word angst and the German word Angst."
+    },
+    {
+      "name": "depression ireland",
+      "label": "Ireland",
+      "id": 63,
+      "type": "circle",
+      "size": 1,
+      "extra":"As many as 400,000 people in Ireland have depression at any one time, support group, Aware, has said."
+    },
+    {
+      "name": "signs of depression",
+      "label": "Ireland",
+      "id": 64,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common signs of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "depression test",
+      "label": "Ireland",
+      "id": 65,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "",
+      "label": "Ireland",
+      "id": 66,
+      "type": "square",
+      "size": 6
+    },
+    {
+      "name": "depression test",
+      "label": "Greece",
+      "id": 71,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression symptoms",
+      "label": "Greece",
+      "id": 72,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "great depression",
+      "label": "Greece",
+      "id": 73,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Greece",
+      "id": 74,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "depression era",
+      "label": "Greece",
+      "id": 75,
+      "type": "circle",
+      "size": 1,
+      "extra": "The depression era was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "",
+      "label": "Greece",
+      "id": 76,
+      "type": "square",
+      "size": 6
+    },
+    {
+      "name": "depresion",
+      "label": "Spain",
+      "id": 81,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Spanish word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "great depression",
+      "label": "Spain",
+      "id": 82,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression symptoms",
+      "label": "Spain",
+      "id": 83,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "depression test",
+      "label": "Spain",
+      "id": 84,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "the great depression",
+      "label": "Spain",
+      "id": 85,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "",
+      "label": "Spain",
+      "id": 86,
+      "type": "square",
+      "size": 6
+    },
+    {
+      "name": "la depression",
+      "label": "France",
+      "id": 91,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: French word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "dépression",
+      "label": "France",
+      "id": 92,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: French word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "depression symptome",
+      "label": "France",
+      "id": 93,
+      "type": "circle",
+      "size": 1,
+      "extra": "common symptoms of depression: <ul> <li> Feelings of helplessness and hopelessness.</li> <li> Loss of interest in daily activities. </li> <li>Appetite or weight changes.</li><li>Sleep changes.</li><li>Anger or irritability.</li>Loss of energy.</li><li> Self-loathing.</li><li>Reckless behavior.</li> </ul>"
+    },
+    {
+      "name": "symptome",
+      "label": "France",
+      "id": 94,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "symptomes depression",
+      "label": "France",
+      "id": 95,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "",
+      "label": "France",
+      "id": 96,
+      "type": "square",
+      "size": 6
+    },
+
+    {
+      "name": "depression test",
+      "label": "Croatia",
+      "id": 101,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Croatia",
+      "id": 102,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "",
+      "label": "Croatia",
+      "id": 106,
+      "type": "square",
+      "size": 3
+    },
+
+    {
+      "name": "depressione",
+      "label": "Italy",
+      "id": 111,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Italian word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "great depression",
+      "label": "Italy",
+      "id": 112,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression test",
+      "label": "Italy",
+      "id": 113,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression symptoms",
+      "label": "Italy",
+      "id": 114,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "the great depression",
+      "label": "Italy",
+      "id": 115,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "",
+      "label": "Italy",
+      "id": 116,
+      "type": "square",
+      "size": 6
+    },
+
+    {
+      "name": "depression test",
+      "label": "Cyprus",
+      "id": 121,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "",
+      "label": "Cyprus",
+      "id": 126,
+      "type": "square",
+      "size": 2
+    },
+
+    {
+      "name": "depression test",
+      "label": "Latvia",
+      "id": 131,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "",
+      "label": "Latvia",
+      "id": 136,
+      "type": "square",
+      "size": 2
+    },
+
+    {
+      "name": "depression test",
+      "label": "Lithuania",
+      "id": 141,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "",
+      "label": "Lithuania",
+      "id": 146,
+      "type": "square",
+      "size": 2
+    },
+
+    {
+      "name": "",
+      "label": "Luxembourg",
+      "id": 156,
+      "type": "square",
+      "size": 1
+    },
+
+    {
+      "name": "great depression",
+      "label": "Hungary",
+      "id": 161,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression test",
+      "label": "Hungary",
+      "id": 162,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "",
+      "label": "Hungary",
+      "id": 166,
+      "type": "square",
+      "size": 3
+    },
+
+    {
+      "name": "depression symptoms",
+      "label": "Malta",
+      "id": 171,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "",
+      "label": "Malta",
+      "id": 176,
+      "type": "square",
+      "size": 2
+    },
+
+    {
+      "name": "depression symptome",
+      "label": "Austria",
+      "id": 181,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "depression test",
+      "label": "Austria",
+      "id": 182,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression anzeichen",
+      "label": "Austria",
+      "id": 183,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "depression selbsthilfe",
+      "label": "Austria",
+      "id": 184,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "burnout",
+      "label": "Austria",
+      "id": 185,
+      "type": "circle",
+      "size": 1,
+      "extra":"Burnout is not a simple result of long hours. The cynicism, depression, and lethargy of burnout can occur when you're not in control of how you carry out your job, when you're working toward goals that don't resonate with you, and when you lack social support."
+    },
+    {
+      "name": "",
+      "label": "Austria",
+      "id": 186,
+      "type": "square",
+      "size": 6
+    },
+
+    {
+      "name": "depresja",
+      "label": "Poland",
+      "id": 191,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Pools word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "great depression",
+      "label": "Poland",
+      "id": 192,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression quest",
+      "label": "Poland",
+      "id": 193,
+      "type": "circle",
+      "size": 1,
+      "extra":"Depression Quest is a 2013 interactive fiction game dealing with the subject of depression."
+    },
+    {
+      "name": "depression test",
+      "label": "Poland",
+      "id": 194,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "post pop depression",
+      "label": "Poland",
+      "id": 195,
+      "type": "circle",
+      "size": 1,
+      "extra":"Post Pop Depression is the eighteenth studio album by American rock singer Iggy Pop, released on March 18, 2016, by Loma Vista Recordings. "
+    },
+    {
+      "name": "",
+      "label": "Poland",
+      "id": 196,
+      "type": "square",
+      "size": 6
+    },
+    
+    {
+      "name": "depressão",
+      "label": "Portugal",
+      "id": 201,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Portuguese word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "depression test",
+      "label": "Portugal",
+      "id": 202,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression quest",
+      "label": "Portugal",
+      "id": 203,
+      "type": "circle",
+      "size": 1,
+      "extra":"Depression Quest is a 2013 interactive fiction game dealing with the subject of depression."
+    },
+    {
+      "name": "",
+      "label": "Portugal",
+      "id": 206,
+      "type": "square",
+      "size": 4
+    },
+
+    {
+      "name": "depression test",
+      "label": "Romania",
+      "id": 211,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Romania",
+      "id": 212,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "crippling depression",
+      "label": "Romania",
+      "id": 213,
+      "type": "circle",
+      "size": 1,
+      "extra":"Severe depression that takes over your whole life making unbearable to carry out basic daily tasks"
+    },
+    {
+      "name": "depression quest",
+      "label": "Romania",
+      "id": 214,
+      "type": "circle",
+      "size": 1,
+      "extra":"Depression Quest is a 2013 interactive fiction game dealing with the subject of depression."
+    },
+    {
+      "name": "",
+      "label": "Romania",
+      "id": 216,
+      "type": "square",
+      "size": 5
+    },
+
+    {
+      "name": "depression test",
+      "label": "Slovenia",
+      "id": 221,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Slovenia",
+      "id": 222,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "depresija",
+      "label": "Slovenia",
+      "id": 223,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Slovenian word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "",
+      "label": "Slovenia",
+      "id": 226,
+      "type": "square",
+      "size": 4
+    },
+
+    {
+      "name": "depression test",
+      "label": "Slovakia",
+      "id": 231,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "",
+      "label": "Slovakia",
+      "id": 236,
+      "type": "square",
+      "size": 2
+    },
+
+    {
+      "name": "depression test",
+      "label": "Finland",
+      "id": 241,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Finland",
+      "id": 242,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "great depression",
+      "label": "Finland",
+      "id": 243,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression quest",
+      "label": "Finland",
+      "id": 244,
+      "type": "circle",
+      "size": 1,
+      "extra":"Depression Quest is a 2013 interactive fiction game dealing with the subject of depression."
+    },
+    {
+      "name": "the great depression",
+      "label": "Finland",
+      "id": 245,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "",
+      "label": "Finland",
+      "id": 246,
+      "type": "square",
+      "size": 6
+    },
+
+    {
+      "name": "depression test",
+      "label": "Sweden",
+      "id": 251,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "ångest",
+      "label": "Sweden",
+      "id": 252,
+      "type": "circle",
+      "size": 1,
+      "extra":"Angst means fear or anxiety. The word angst was introduced into English from the Danish, Norwegian and Dutch word angst and the German word Angst."
+    },
+    {
+      "name": "ångest depression",
+      "label": "Sweden",
+      "id": 253,
+      "type": "circle",
+      "size": 1,
+      "extra":"Angst means fear or anxiety. The word angst was introduced into English from the Danish, Norwegian and Dutch word angst and the German word Angst."
+    },
+    {
+      "name": "behandling depression",
+      "label": "Sweden",
+      "id": 254,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "symtom depression",
+      "label": "Sweden",
+      "id": 255,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "",
+      "label": "Sweden",
+      "id": 256,
+      "type": "square",
+      "size": 6
+    },
+
+    {
+      "name": "the depression",
+      "label": "United Kingdom",
+      "id": 261,
+      "type": "circle",
+      "size": 1,
+      "extra": "The depressie: Slovenian word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "depression symptoms",
+      "label": "United Kingdom",
+      "id": 262,
+      "type": "circle",
+      "size": 1,
+      "extra": "Common symptoms of depression: Feelings of helplessness and hopelessness. Loss of interest in daily activities. Appetite or weight changes. Sleep changes. Anger or irritability. Loss of energy. Self-loathing. Reckless behavior."
+    },
+    {
+      "name": "anxiety depression",
+      "label": "United Kingdom",
+      "id": 263,
+      "type": "circle",
+      "size": 1,
+      "extra":"Angst means fear or anxiety. The word angst was introduced into English from the Danish, Norwegian and Dutch word angst and the German word Angst."
+    },
+    {
+      "name": "anxiety",
+      "label": "United Kingdom",
+      "id": 264,
+      "type": "circle",
+      "size": 1,
+      "extra":"Angst means fear or anxiety. The word angst was introduced into English from the Danish, Norwegian and Dutch word angst and the German word Angst."
+    },
+    {
+      "name": "depression test",
+      "label": "United Kingdom",
+      "id": 265,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "",
+      "label": "United Kingdom",
+      "id": 266,
+      "type": "square",
+      "size": 6
+    },
+
+    {
+      "name": "",
+      "label": "Iceland",
+      "id": 276,
+      "type": "square",
+      "size": 1
+    },
+
+    {
+      "name": "depression test",
+      "label": "Norway",
+      "id": 281,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "depresjon",
+      "label": "Norway",
+      "id": 282,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Norwegian word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "great depression",
+      "label": "Norway",
+      "id": 283,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depression quotes",
+      "label": "Norway",
+      "id": 284,
+      "type": "circle",
+      "size": 1,
+      "extra":"Quote on depression: 'People think depression is sadness, crying or dressing in black. But people are wrong. Depression is the constant feeling of being numb. You wake up in the morning just to go back to bed again.'"
+    },
+    {
+      "name": "the great depression",
+      "label": "Norway",
+      "id": 285,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "",
+      "label": "Norway",
+      "id": 286,
+      "type": "square",
+      "size": 6
+    },
+
+    {
+      "name": "great depression",
+      "label": "Turkey",
+      "id": 291,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "depresyon",
+      "label": "Turkey",
+      "id": 292,
+      "type": "circle",
+      "size": 1,
+      "extra": "Depressie: Turkish word for a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity"
+    },
+    {
+      "name": "depression test",
+      "label": "Turkey",
+      "id": 293,
+      "type": "circle",
+      "size": 1,
+      "extra": "The diagnosis of major depressive disorder is based on the person's reported experiences and a mental status examination. There is no laboratory test for major depression. Testing, however, may be done to rule out physical conditions that can cause similar symptoms."
+    },
+    {
+      "name": "major depression",
+      "label": "Turkey",
+      "id": 294,
+      "type": "circle",
+      "size": 1,
+      "extra": "The major depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "the great depression",
+      "label": "Turkey",
+      "id": 295,
+      "type": "circle",
+      "size": 1,
+      "extra": "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, originating in the United States. It was the longest and most severe depression ever experienced by the industrialized Western world."
+    },
+    {
+      "name": "",
+      "label": "Turkey",
+      "id": 296,
+      "type": "square",
+      "size": 6
+    }
+  ],
+  "links": [
+    {
+      "source": 6,
+      "target": 1,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "country": "",
+      "type": ""
+    },{
+      "source": 6,
+      "target": 3,
+      "country": "",
+      "type": ""
+    },{
+      "source": 6,
+      "target": 4,
+      "country": "",
+      "type": ""
+    },{
+      "source": 6,
+      "target": 5,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 16,
+      "target": 11,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 16,
+      "target": 12,
+      "country": "",
+      "type": ""
+    },{
+      "source": 16,
+      "target": 13,
+      "country": "",
+      "type": ""
+    },{
+      "source": 16,
+      "target": 14,
+      "country": "",
+      "type": ""
+    },{
+      "source": 16,
+      "target": 15,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 26,
+      "target": 21,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 26,
+      "target": 22,
+      "country": "",
+      "type": ""
+    },{
+      "source": 26,
+      "target": 23,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 36,
+      "target": 31,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 36,
+      "target": 32,
+      "country": "",
+      "type": ""
+    },{
+      "source": 36,
+      "target": 33,
+      "country": "",
+      "type": ""
+    },{
+      "source": 36,
+      "target": 34,
+      "country": "",
+      "type": ""
+    },{
+      "source": 36,
+      "target": 35,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 46,
+      "target": 41,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 46,
+      "target": 42,
+      "country": "",
+      "type": ""
+    },{
+      "source": 46,
+      "target": 43,
+      "country": "",
+      "type": ""
+    },{
+      "source": 46,
+      "target": 44,
+      "country": "",
+      "type": ""
+    },{
+      "source": 46,
+      "target": 45,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 56,
+      "target": 51,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 66,
+      "target": 61,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 66,
+      "target": 62,
+      "country": "",
+      "type": ""
+    },{
+      "source": 66,
+      "target": 63,
+      "country": "",
+      "type": ""
+    },{
+      "source": 66,
+      "target": 64,
+      "country": "",
+      "type": ""
+    },{
+      "source": 66,
+      "target": 65,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 76,
+      "target": 71,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 76,
+      "target": 72,
+      "country": "",
+      "type": ""
+    },{
+      "source": 76,
+      "target": 73,
+      "country": "",
+      "type": ""
+    },{
+      "source": 76,
+      "target": 74,
+      "country": "",
+      "type": ""
+    },{
+      "source": 76,
+      "target": 75,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 86,
+      "target": 81,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 86,
+      "target": 82,
+      "country": "",
+      "type": ""
+    },{
+      "source": 86,
+      "target": 83,
+      "country": "",
+      "type": ""
+    },{
+      "source": 86,
+      "target": 84,
+      "country": "",
+      "type": ""
+    },{
+      "source": 86,
+      "target": 85,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 96,
+      "target": 91,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 96,
+      "target": 92,
+      "country": "",
+      "type": ""
+    },{
+      "source": 96,
+      "target": 93,
+      "country": "",
+      "type": ""
+    },{
+      "source": 96,
+      "target": 94,
+      "country": "",
+      "type": ""
+    },{
+      "source": 96,
+      "target": 95,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 106,
+      "target": 101,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 106,
+      "target": 102,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 116,
+      "target": 111,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 116,
+      "target": 112,
+      "country": "",
+      "type": ""
+    },{
+      "source": 116,
+      "target": 113,
+      "country": "",
+      "type": ""
+    },{
+      "source": 116,
+      "target": 114,
+      "country": "",
+      "type": ""
+    },{
+      "source": 116,
+      "target": 115,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 126,
+      "target": 121,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 136,
+      "target": 131,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 146,
+      "target": 141,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 166,
+      "target": 161,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 166,
+      "target": 162,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 176,
+      "target": 171,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 186,
+      "target": 181,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 186,
+      "target": 182,
+      "country": "",
+      "type": ""
+    },{
+      "source": 186,
+      "target": 183,
+      "country": "",
+      "type": ""
+    },{
+      "source": 186,
+      "target": 184,
+      "country": "",
+      "type": ""
+    },{
+      "source": 186,
+      "target": 185,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 196,
+      "target": 191,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 196,
+      "target": 192,
+      "country": "",
+      "type": ""
+    },{
+      "source": 196,
+      "target": 193,
+      "country": "",
+      "type": ""
+    },{
+      "source": 196,
+      "target": 194,
+      "country": "",
+      "type": ""
+    },{
+      "source": 196,
+      "target": 195,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 206,
+      "target": 201,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 206,
+      "target": 202,
+      "country": "",
+      "type": ""
+    },{
+      "source": 206,
+      "target": 203,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 216,
+      "target": 211,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 216,
+      "target": 212,
+      "country": "",
+      "type": ""
+    },{
+      "source": 216,
+      "target": 213,
+      "country": "",
+      "type": ""
+    },{
+      "source": 216,
+      "target": 214,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 226,
+      "target": 221,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 226,
+      "target": 222,
+      "country": "",
+      "type": ""
+    },{
+      "source": 226,
+      "target": 223,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 236,
+      "target": 231,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 246,
+      "target": 241,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 246,
+      "target": 242,
+      "country": "",
+      "type": ""
+    },{
+      "source": 246,
+      "target": 243,
+      "country": "",
+      "type": ""
+    },{
+      "source": 246,
+      "target": 244,
+      "country": "",
+      "type": ""
+    },{
+      "source": 246,
+      "target": 245,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 256,
+      "target": 251,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 256,
+      "target": 252,
+      "country": "",
+      "type": ""
+    },{
+      "source": 256,
+      "target": 253,
+      "country": "",
+      "type": ""
+    },{
+      "source": 256,
+      "target": 254,
+      "country": "",
+      "type": ""
+    },{
+      "source": 256,
+      "target": 255,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 266,
+      "target": 261,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 266,
+      "target": 262,
+      "country": "",
+      "type": ""
+    },{
+      "source": 266,
+      "target": 263,
+      "country": "",
+      "type": ""
+    },{
+      "source": 266,
+      "target": 264,
+      "country": "",
+      "type": ""
+    },{
+      "source": 266,
+      "target": 265,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 286,
+      "target": 281,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 286,
+      "target": 282,
+      "country": "",
+      "type": ""
+    },{
+      "source": 286,
+      "target": 283,
+      "country": "",
+      "type": ""
+    },{
+      "source": 286,
+      "target": 284,
+      "country": "",
+      "type": ""
+    },{
+      "source": 286,
+      "target": 285,
+      "country": "",
+      "type": ""
+    },
+
+    {
+      "source": 296,
+      "target": 291,
+      "country": "",
+      "type": ""
+    },
+    {
+      "source": 296,
+      "target": 292,
+      "country": "",
+      "type": ""
+    },{
+      "source": 296,
+      "target": 293,
+      "country": "",
+      "type": ""
+    },{
+      "source": 296,
+      "target": 294,
+      "country": "",
+      "type": ""
+    },{
+      "source": 296,
+      "target": 295,
+      "country": "",
+      "type": ""
+    }
+  ]
+}
