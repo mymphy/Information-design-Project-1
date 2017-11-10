@@ -3,18 +3,18 @@ For this design I have collect different data about depression in Europe. This p
 
 The idea to make a design about depression in Europe came from the [research case](https://luisa-braga-dos-santos.gitbooks.io/technologie-en-psychiatrie-research-case/content/onderzoek/onderzoek10.html) that I previously had made for the class Research for data.
 
-![preview.png](./fotos/preview.png)
+![preview.png](./img/preview.png)
 
 ### Depression in Europe:
-![map-graph.png](./fotos/map-graph.png)
+![map-graph.png](./img/map-graph.png)
 This visualization was based on the code from [The Netherlands vacation destination in ...](https://github.com/mymphy/fe3-assessment-3) originally based on [d3.js slider map](http://bl.ocks.org/tomschulze/961d57bd1bbd2a9ef993f2e8645cb8d2) by Tom Schulze (GNU v.3).
 
 ### Female vs Male depression:
-![gender-graph.png](./fotos/gender-graph.png)
+![gender-graph.png](./img/gender-graph.png)
 This visualization was based on the code from [Languages bar chart](https://github.com/mymphy/fe3-assessment-1) originally based on [Horizontal Bar Chart with Tooltip D3 V4](https://bl.ocks.org/alandunning/7008d0332cc28a826b37b3cf6e7bd998) by Alan Dunning (The MIT License).
 
 ### Top 5 search on depression:
-![relation-graph.png](./fotos/relation-graph.png)
+![relation-graph.png](./img/relation-graph.png)
 This visualization was based on the code from [Force directed graph for D3.js v4 with labelled edges and arrows](http://bl.ocks.org/fancellu/2c782394602a93921faff74e594d1bb1) by Dino Fancellu (GNU v.3).
 
 ## Data
@@ -45,7 +45,7 @@ Country estimates, 2015](http://apps.who.int/iris/bitstream/10665/254610/1/WHO-M
 "DE": 8.5,
 ...
 ```
-[data.json]()
+[depression.json](./data/depression.json)
 
 ### Female vs Male depression:
 For the dual bar chart I searched for the data about female/male depression over the years 2014. 2015 and 2016. On the internet I was only able to find the data from 2014 and 2015. But for the dual bar chart itself I only used the data of the year 2014. An addition of the year 2015 is recorded in my to do list.
@@ -60,40 +60,69 @@ Germany,12.1,9
 Estonia,5.4,4
 ...
 ```
-[gender.csv]()
+[gender.csv](./data/gender.csv)
 
 ### Top 5 search on depression:
 For the Force Directed Graph I collected the data myself from [Google Trends](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=NL&q=Depression). I used the data from the period `01/01/2014 until 31/12/2016` of the top 5 `Related queries` per country from Europe that was listed in the previous used data.
 <details>
-<summary> Data used:<summary>
-* [Denmark](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=DK&q=Depression)
-* [United Kingdom(https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=GB&q=Depression)
-* [France](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=FR&q=Depression)
-* [Croatia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=HR&q=Depression)
-* [Italy](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=IT&q=Depression)
-* [Cyprus](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=CY&q=Depression)
-* [Latvia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=LV&q=Depression)
-* [Lithuania](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=LT&q=Depression)
-* [Luxembourg](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=LU&q=Depression)
-* [Hungary](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=HU&q=Depression)
-* [Malta](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=MT&q=Depression)
-* [Austria](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=AT&q=Depression)
-* [Poland](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=PL&q=Depression)
-* [Portugal](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=PT&q=Depression)
-* [Romania](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=RO&q=Depression)
-* [Slovenia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=SI&q=Depression)
-* [Slovakia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=SK&q=Depression)
-* [Finland](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=FI&q=Depression)
-* [Sweden](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=SE&q=Depression)
-* [Turkey](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=TR&q=Depression)
-* [Ierland](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=IE&q=Depression)
-* [Estonia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=EE&q=Depression)
-* [Czechia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=CZ&q=Depression)
-* [Bulgaria](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=BG&q=Depression)
-* [Netherlands](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=NL&q=Depression)
-* [Belgium](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=BE&q=Depression)
-* [Germany](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=DE&q=Depression)
+ <summary> Data used:<summary>
+ 
+ [Denmark](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=DK&q=Depression)
+
+ [United Kingdom](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=GB&q=Depression)
+
+ [France](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=FR&q=Depression)
+
+ [Croatia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=HR&q=Depression)
+
+ [Italy](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=IT&q=Depression)
+
+ [Cyprus](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=CY&q=Depression)
+
+ [Latvia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=LV&q=Depression)
+
+ [Lithuania](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=LT&q=Depression)
+
+ [Luxembourg](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=LU&q=Depression)
+
+ [Hungary](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=HU&q=Depression)
+
+ [Malta](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=MT&q=Depression)
+
+ [Austria](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=AT&q=Depression)
+
+ [Poland](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=PL&q=Depression)
+
+ [Portugal](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=PT&q=Depression)
+
+ [Romania](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=RO&q=Depression)
+
+ [Slovenia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=SI&q=Depression)
+
+ [Slovakia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=SK&q=Depression)
+
+ [Finland](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=FI&q=Depression)
+
+ [Sweden](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=SE&q=Depression)
+
+ [Turkey](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=TR&q=Depression)
+
+ [Ierland](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=IE&q=Depression)
+
+ [Estonia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=EE&q=Depression)
+
+ [Czechia](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=CZ&q=Depression)
+
+ [Bulgaria](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=BG&q=Depression)
+
+ [Netherlands](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=NL&q=Depression)
+
+ [Belgium](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=BE&q=Depression)
+
+ [Germany](https://trends.google.com/trends/explore?date=2014-01-01%202016-12-31&geo=DE&q=Depression)
+
 </details>
+ 
 ```
 {
 "nodes": [
@@ -114,7 +143,8 @@ For the Force Directed Graph I collected the data myself from [Google Trends](ht
 },
 ...
 ```
-[graph.json]()
+ 
+[relation.json](./data/relation.json)
 
 ## Features
 
@@ -172,7 +202,7 @@ To read about my workflow during this project go to [workflow](workflow.md)
 
 ##### CSS
 
-Added the [`button.js`](button.js) file.
+Added the [`button.js`](./js/button.js) file.
 #### Depression in Europe:
 ##### JS
 * Removed unnecessary code from the original one. (like the bar chart)
